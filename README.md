@@ -16,7 +16,7 @@
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes Based On Goals Chart]
+![Outcomes Based On Goals Chart] (https://github.com/lissettebf86/kickstarter-analysis/blob/c1a950c56809d72866f884555ce5c82a7e921ba5/outcomes%20based%20on%20goals.png)
 
 
 ### Challenges and Difficulties Encountered
